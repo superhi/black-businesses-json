@@ -1,8 +1,8 @@
 {
-  "name": "book-club-json",
+  "name": "black-businesses-json",
   "version": "1.0.0",
-  "repository": "https://github.com/superhi/book-club-json.git",
-  "author": "Ryan <ryan@artcommaco.de>",
+  "repository": "https://github.com/superhi/black-businesses-json.git",
+  "author": "Isabel <hello@isabelklee.co>",
   "license": "MIT",
   "private": true,
   "dependencies": {
