@@ -71,6 +71,21 @@
       "description": "Romeo and Milka Regalli always envisioned creating an Ethiopian culinary experience reminiscent of the meals that they watched their grandparents make- food that was simple yet insanely complex, made with love and bursting with flavor. Ras is their interpretation of recipes handed down through generations, a place where modern meets traditional to create exceptional cuisine.",
       "image_url": "https://images.squarespace-cdn.com/content/v1/5dcc78e38b58236558d18a10/1591235351807-511W8S89JSTPGC1ZNWRO/ke17ZwdGBToddI8pDm48kPs6Mcv_T4nOgRdCM7Eex8p7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UYLX9E6mZWux1LURK0VvVvvtie3W6JlmJ8OoHveJxm3rwzgQ1HYBeOI75vUrs92jaw/2.JPG?format=2500w",
       "website": "https://www.rasplantbased.com/"
+    },
+    {
+      "id": 6,
+      "title": "Can't Believe It's Not Meat",
+      "categories": ["food", "vegan", "vegetarian"],
+      "address": "1368 E 53rd St",
+      "city": "Chicago",
+      "state": "Illinois",
+      "coordinates": [
+        -87.592404,
+        41.799691
+      ],
+      "description": "Can't Believe It's Not Meat modern & flavorful To-Go Flexitarian, transitioning vegetarian, restaurant you’ll be sure to love! We want to make transitioning into a plant based diet as easy as possible by making healthier versions of your favourite dishes.",
+      "image_url": "https://trippin.imgix.net/https%3A%2F%2Ftrippin.world%2Fassets%2Fspots%2Fcant-believe-philly.jpg?auto=compress%2Cformat&fit=max&ixlib=php-1.1.0&q=80&sharp=20&w=1400&s=a1c90435f8ccb12c1bb50fc4f3e5318b",
+      "website": "https://cantbelieveitsnotmeat.com"
     }
   ]
 }
