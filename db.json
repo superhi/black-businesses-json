@@ -3,7 +3,7 @@
      {
       "id": 1,
       "title": "Joloff",
-      "category": "food",
+      "categories": "food, senegalese",
       "address": "1168 Bedford Ave",
       "city": "Brooklyn",
       "state": "New York",
@@ -15,7 +15,7 @@
     {
       "id": 2,
       "title": "Bad & Boozy",
-      "category": "beverages",
+      "categories": "cocktails, beverages",
       "address": null,
       "city": "Brooklyn",
       "state": "New York",
@@ -27,7 +27,7 @@
     {
       "id": 3,
       "title": "Cuts & Slices",
-      "category": "food",
+      "categories": "food, pizza",
       "address": "93 Howard Ave",
       "city": "Brooklyn",
       "state": "New York",
@@ -39,7 +39,7 @@
     {
       "id": 4,
       "title": "Milk & Pull",
-      "category": "coffee",
+      "categories": "coffee, beverages, pastries",
       "address": "307 Malcolm X Blvd",
       "city": "Brooklyn",
       "state": "New York",
