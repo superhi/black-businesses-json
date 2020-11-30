@@ -3,7 +3,7 @@
      {
       "id": 1,
       "title": "Joloff",
-      "categories": ["food", "senegalese cuisine"],
+      "categories": ["senegalese cuisine"],
       "address": "1168 Bedford Ave",
       "city": "Brooklyn",
       "state": "New York",
@@ -30,7 +30,7 @@
     {
       "id": 3,
       "title": "Cuts & Slices",
-      "categories": ["food", "pizza"],
+      "categories": ["pizza"],
       "address": "93 Howard Ave",
       "city": "Brooklyn",
       "state": "New York",
@@ -60,7 +60,7 @@
     {
       "id": 5,
       "title": "Ras Plant Based",
-      "categories": ["food", "ethiopian cuisine"],
+      "categories": ["ethiopian cuisine"],
       "address": "739 Franklin Ave",
       "city": "Brooklyn",
       "state": "New York",
@@ -75,7 +75,7 @@
     {
       "id": 6,
       "title": "Can't Believe It's Not Meat",
-      "categories": ["food", "vegan", "vegetarian", "soul food"],
+      "categories": ["vegan", "vegetarian", "soul food"],
       "address": "1368 E 53rd St",
       "city": "Chicago",
       "state": "Illinois",
@@ -90,7 +90,7 @@
     {
       "id": 7,
       "title": "Original Soul Vegetarian",
-      "categories": ["food", "vegan", "vegetarian", "soul food"],
+      "categories": ["vegan", "vegetarian", "soul food"],
       "address": "203 E 75th St",
       "city": "Chicago",
       "state": "Illinois",
@@ -105,7 +105,7 @@
     {
       "id": 8,
       "title": "Ras Dashen",
-      "categories": ["food", "ethiopian cuisine"],
+      "categories": ["ethiopian cuisine"],
       "address": "5844 N Broadway",
       "city": "Chicago",
       "state": "Illinois",
@@ -120,7 +120,7 @@
     {
       "id": 9,
       "title": "The Serving Spoon",
-      "categories": ["food", "soul food"],
+      "categories": ["soul food"],
       "address": "1403 Centinela Ave",
       "city": "Inglewood",
       "state": "California",
@@ -131,6 +131,36 @@
       "description": "Opened in 1982 by Harold E. Sparks, The Serving Spoon is a full-service diner serving Southern classics in a brightly-lit and energetic room. The restaurant, by the way, is named after a diner that was featured on the soap opera \"All My Children,\" Mr. Sparks’ favorite afternoon indulgence. Today the restaurant is run by his daughter and son-in-law.",
       "image_url": "https://trippin.imgix.net/https%3A%2F%2Ftrippin.world%2Fassets%2Fspots%2FNorth-America%2FLos-Angeles%2Fhttps-trippin.world-assets-spots-Trippin-The-Serving-Spoon-LA.jpg?auto=compress%2Cformat&fit=max&ixlib=php-1.1.0&q=80&sharp=20&w=1400&s=e4d3de036478907ea3ce5e2d40fa5ce5",
       "website": "https://theservingspoon.net"
+    },
+    {
+      "id": 10,
+      "title": "Ackee Bamboo",
+      "categories": ["coffee"],
+      "address": "4305 Degnan Blvd",
+      "city": "Los Angeles",
+      "state": "California",
+      "coordinates": [
+        -118.3338861,
+        34.0057812
+      ],
+      "description": "We opened the original Ackee Bamboo Restaurant in Los Angeles, California on September 27, 2001. Today; we continue to serve the community with the very best Authentic Jamaican Food in town.",
+      "image_url": "https://trippin.imgix.net/https%3A%2F%2Ftrippin.world%2Fassets%2Fspots%2Fackee.jpg?auto=compress%2Cformat&fit=max&ixlib=php-1.1.0&q=80&sharp=20&w=1400&s=12f4dfa96a5d8a8cda62d72d6b4829ec",
+      "website": "http://ackeebamboojacuisine.com"
+    },
+    {
+      "id": 11,
+      "title": "Sip & Sonder",
+      "categories": ["coffee", "pastries"],
+      "address": "108 S Market St",
+      "city": "Inglewood",
+      "state": "California",
+      "coordinates": [
+        -118.3338861,
+        34.0057812
+      ],
+      "description": "Established in 2017, Sip & Sonder's flagship location is the first specialty coffee house in Inglewood, California. With a coffee roaster, creative studio, and multi-purpose event space on site, Sip & Sonder is much more than your ordinary coffee shop—we are a Black woman-owned innovative entrepreneurial and creative hub where coffee, community, and culture connect.",
+      "image_url": "https://trippin.imgix.net/https%3A%2F%2Ftrippin.world%2Fassets%2Fspots%2FScreenshot-2020-06-15-at-12.43.31.png?auto=compress%2Cformat&fit=max&ixlib=php-1.1.0&q=80&sharp=20&w=1400&s=13a4991519b1d224b2ea030a566d3151",
+      "website": "https://www.sipandsonder.com"
     }
   ]
 }
