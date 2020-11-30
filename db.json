@@ -75,7 +75,7 @@
     {
       "id": 6,
       "title": "Can't Believe It's Not Meat",
-      "categories": ["food", "vegan", "vegetarian"],
+      "categories": ["food", "vegan", "vegetarian", "soul food"],
       "address": "1368 E 53rd St",
       "city": "Chicago",
       "state": "Illinois",
@@ -86,6 +86,21 @@
       "description": "Can't Believe It's Not Meat modern & flavorful To-Go Flexitarian, transitioning vegetarian, restaurant you’ll be sure to love! We want to make transitioning into a plant based diet as easy as possible by making healthier versions of your favourite dishes.",
       "image_url": "https://trippin.imgix.net/https%3A%2F%2Ftrippin.world%2Fassets%2Fspots%2Fcant-believe-philly.jpg?auto=compress%2Cformat&fit=max&ixlib=php-1.1.0&q=80&sharp=20&w=1400&s=a1c90435f8ccb12c1bb50fc4f3e5318b",
       "website": "https://cantbelieveitsnotmeat.com"
+    },
+    {
+      "id": 7,
+      "title": "Original Soul Vegetarian",
+      "categories": ["food", "vegan", "vegetarian", "soul food"],
+      "address": "203 E 75th St",
+      "city": "Chicago",
+      "state": "Illinois",
+      "coordinates": [
+        -87.6217872,
+        41.7581628
+      ],
+      "description": "At Original Soul Vegetarian, we seek to offer a one-of-a-kind culinary experience for vegans and health aficionados throughout the Chicago area. For the past 30 years, we have offered food that is both healthy and delicious\u2014winning the praise and consistent patronage of vegetarians and non-vegetarians alike.",
+      "image_url": "https://trippin.imgix.net/https%3A%2F%2Ftrippin.world%2Fassets%2Fspots%2Fsoul-veg-3.jpg?auto=compress%2Cformat&fit=max&ixlib=php-1.1.0&q=80&sharp=20&w=1800&s=77da14e9c3ea077b616337c1d3c43106",
+      "website": "https://www.originalsoulvegetarian.com"
     }
   ]
 }
