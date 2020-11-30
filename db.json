@@ -101,6 +101,36 @@
       "description": "At Original Soul Vegetarian, we seek to offer a one-of-a-kind culinary experience for vegans and health aficionados throughout the Chicago area. For the past 30 years, we have offered food that is both healthy and delicious\u2014winning the praise and consistent patronage of vegetarians and non-vegetarians alike.",
       "image_url": "https://trippin.imgix.net/https%3A%2F%2Ftrippin.world%2Fassets%2Fspots%2Fsoul-veg-3.jpg?auto=compress%2Cformat&fit=max&ixlib=php-1.1.0&q=80&sharp=20&w=1800&s=77da14e9c3ea077b616337c1d3c43106",
       "website": "https://www.originalsoulvegetarian.com"
+    },
+    {
+      "id": 8,
+      "title": "Ras Dashen",
+      "categories": ["food", "ethiopian cuisine"],
+      "address": "5844 N Broadway",
+      "city": "Chicago",
+      "state": "Illinois",
+      "coordinates": [
+        -87.6628423,
+        41.9882883
+      ],
+      "description": "Comfort food from the mountains of Ethiopia, Ras Dashen (pronounced Rahs DAH-shen) is the tallest mountain in Ethiopia, and is located in the Simien Mountains National Park. Zenash, the Chef at Ras Dashen Ethiopian Restaurant, grew up near these mountains.",
+      "image_url": "https://trippin.imgix.net/https%3A%2F%2Ftrippin.world%2Fassets%2Fspots%2Frasdashen-food.jpg?auto=compress%2Cformat&fit=max&ixlib=php-1.1.0&q=80&sharp=20&w=2400&s=2e0483c5f58803ad40301c1eb832b40b",
+      "website": "https://www.rasdashenchicago.com"
+    },
+    {
+      "id": 9,
+      "title": "The Serving Spoon",
+      "categories": ["food", "soul food"],
+      "address": "1403 Centinela Ave",
+      "city": "Inglewood",
+      "state": "California",
+      "coordinates": [
+        -118.3185579,
+        33.974768
+      ],
+      "description": "Opened in 1982 by Harold E. Sparks, The Serving Spoon is a full-service diner serving Southern classics in a brightly-lit and energetic room. The restaurant, by the way, is named after a diner that was featured on the soap opera \"All My Children,\" Mr. Sparks’ favorite afternoon indulgence. Today the restaurant is run by his daughter and son-in-law.",
+      "image_url": "https://trippin.imgix.net/https%3A%2F%2Ftrippin.world%2Fassets%2Fspots%2FNorth-America%2FLos-Angeles%2Fhttps-trippin.world-assets-spots-Trippin-The-Serving-Spoon-LA.jpg?auto=compress%2Cformat&fit=max&ixlib=php-1.1.0&q=80&sharp=20&w=1400&s=e4d3de036478907ea3ce5e2d40fa5ce5",
+      "website": "https://theservingspoon.net"
     }
   ]
 }
