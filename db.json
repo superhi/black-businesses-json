@@ -3,11 +3,14 @@
      {
       "id": 1,
       "title": "Joloff",
-      "categories": "food, senegalese",
+      "categories": ["food", "senegalese"],
       "address": "1168 Bedford Ave",
       "city": "Brooklyn",
       "state": "New York",
-      "zipcode": 11216,
+      "coordinates": [
+        -73.954216,
+        40.684093
+      ],
       "description": "We are a West African restaurant specializing in Senegalese cuisine. After almost 20 years serving the community, we have taken a significant part in transforming our restaurant and environment into a \"Taste of Senegal.\" Each of our customers have the opportunity to join in at our table as family and fest in our traditional dishes.",
       "image_url": "https://images.squarespace-cdn.com/content/v1/5dcc78e38b58236558d18a10/1603931373413-61V9SHFCELTYXGNK9J6Q/ke17ZwdGBToddI8pDm48kCHChmuivJZ1Va5ov3ZJeg17gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ouw-8l5B_J38LMU7OZFvYcSGirBhY_3j1yQtntvGS73bypqQ-qjSV5umPUlGbQFAw/2.JPG?format=2500w",
       "website": "https://www.joloffjoloff.com"
@@ -15,11 +18,11 @@
     {
       "id": 2,
       "title": "Bad & Boozy",
-      "categories": "cocktails, beverages",
+      "categories": ["cocktails", "beverages"],
       "address": null,
       "city": "Brooklyn",
       "state": "New York",
-      "zipcode": null,
+      "coordinates": null,
       "description": "Welcome to The Bad & Boozy Cocktail Co. We make small-batch custom-blend cocktails served in a variety of fun containers that you can grab and go. Our boozy pops and jello shots are perfectly balanced for taste and quality. Bad & Boozy Cocktail Co. doesn't stop your party, we keep it going.",
       "image_url": "https://images.squarespace-cdn.com/content/v1/5dcc78e38b58236558d18a10/1597455720645-A8Y4TPGRXU1EBVL7MY1L/ke17ZwdGBToddI8pDm48kGrti_s_PfwP6esIC56PKUgUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8PaoYXhp6HxIwZIk7-Mi3Tsic-L2IOPH3Dwrhl-Ne3Z2almzkRNMpNlNtOklfglXoQ7VoRpBFothwYCJjszMxOSkL3r1G49e-3ZnDLNRdB_t/3.JPG?format=1500w",
       "website": "https://www.badxboozy.com/"
@@ -27,11 +30,14 @@
     {
       "id": 3,
       "title": "Cuts & Slices",
-      "categories": "food, pizza",
+      "categories": ["food", "pizza"],
       "address": "93 Howard Ave",
       "city": "Brooklyn",
       "state": "New York",
-      "zipcode": 11233,
+      "coordinates": [
+        -73.920564,
+        40.685739
+      ],
       "description": "Randy Mclaren opened Cuts & Slices in February of 2018, where he has a whole new dedicated following for serious pizza with an array of inventive toppings. Think oxtail, shrimp and lobster scampi, chopped cheese, chicken and waffles — and much more.",
       "image_url": "https://images.squarespace-cdn.com/content/v1/5dcc78e38b58236558d18a10/1596070925102-5F8983LFN0VLN6JSZNAN/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/4.JPG?format=1500w",
       "website": "https://www.instagram.com/cutsandslicesnyc/"
@@ -39,11 +45,14 @@
     {
       "id": 4,
       "title": "Milk & Pull",
-      "categories": "coffee, beverages, pastries",
+      "categories": ["coffee", "beverages", "pastries"],
       "address": "307 Malcolm X Blvd",
       "city": "Brooklyn",
       "state": "New York",
-      "zipcode": 11233,
+      "coordinates": [
+        -73.928641,
+        40.681526
+      ],
       "description": "It’s a time-honored axiom: The family that builds a coffee empire together, stays together. (Something like that.) Just ask Joe and Angela Austin, owners of Milk & Pull — a cafe with three locations in Bed-Stuy, Bushwick and Ridgewood, Queens. The husband-and-wife duo have been together for 16 years, ever since meeting as young adults working part-time jobs at the H&M on Fifth Avenue.",
       "image_url": "https://images.squarespace-cdn.com/content/v1/5dcc78e38b58236558d18a10/1594224188897-CSSQISTEQNQSOAFTKAPA/ke17ZwdGBToddI8pDm48kIeDCaEEkgMX0uNV_c-0wJ5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PINWd21moNh1cnxYw-oi-2z6JhVCAOTnoje7huoQ_giY4KMshLAGzx4R3EDFOm1kBS/9.JPG?format=2500w",
       "website": "https://www.milkandpull.com"
