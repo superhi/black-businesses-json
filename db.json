@@ -3,7 +3,7 @@
      {
       "id": 1,
       "title": "Joloff",
-      "categories": ["food", "senegalese"],
+      "categories": ["food", "senegalese cuisine"],
       "address": "1168 Bedford Ave",
       "city": "Brooklyn",
       "state": "New York",
@@ -56,6 +56,21 @@
       "description": "It’s a time-honored axiom: The family that builds a coffee empire together, stays together. (Something like that.) Just ask Joe and Angela Austin, owners of Milk & Pull — a cafe with three locations in Bed-Stuy, Bushwick and Ridgewood, Queens. The husband-and-wife duo have been together for 16 years, ever since meeting as young adults working part-time jobs at the H&M on Fifth Avenue.",
       "image_url": "https://images.squarespace-cdn.com/content/v1/5dcc78e38b58236558d18a10/1594224188897-CSSQISTEQNQSOAFTKAPA/ke17ZwdGBToddI8pDm48kIeDCaEEkgMX0uNV_c-0wJ5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PINWd21moNh1cnxYw-oi-2z6JhVCAOTnoje7huoQ_giY4KMshLAGzx4R3EDFOm1kBS/9.JPG?format=2500w",
       "website": "https://www.milkandpull.com"
+    },
+    {
+      "id": 5,
+      "title": "Ras Plant Based",
+      "categories": ["food", "ethiopian cuisine"],
+      "address": "739 Franklin Ave",
+      "city": "Brooklyn",
+      "state": "New York",
+      "coordinates": [
+        -73.956825,
+        40.673435
+      ],
+      "description": "Romeo and Milka Regalli always envisioned creating an Ethiopian culinary experience reminiscent of the meals that they watched their grandparents make- food that was simple yet insanely complex, made with love and bursting with flavor. Ras is their interpretation of recipes handed down through generations, a place where modern meets traditional to create exceptional cuisine.",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5dcc78e38b58236558d18a10/1591235351807-511W8S89JSTPGC1ZNWRO/ke17ZwdGBToddI8pDm48kPs6Mcv_T4nOgRdCM7Eex8p7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UYLX9E6mZWux1LURK0VvVvvtie3W6JlmJ8OoHveJxm3rwzgQ1HYBeOI75vUrs92jaw/2.JPG?format=2500w",
+      "website": "https://www.rasplantbased.com/"
     }
   ]
 }
