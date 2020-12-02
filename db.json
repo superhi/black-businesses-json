@@ -16,18 +16,6 @@
       "website": "https://www.joloffjoloff.com"
     },
     {
-      "id": 2,
-      "title": "Bad & Boozy",
-      "categories": ["cocktails", "beverages"],
-      "address": null,
-      "city": "Brooklyn",
-      "state": "New York",
-      "coordinates": null,
-      "description": "Welcome to The Bad & Boozy Cocktail Co. We make small-batch custom-blend cocktails served in a variety of fun containers that you can grab and go. Our boozy pops and jello shots are perfectly balanced for taste and quality. Bad & Boozy Cocktail Co. doesn't stop your party, we keep it going.",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/5dcc78e38b58236558d18a10/1597455720645-A8Y4TPGRXU1EBVL7MY1L/ke17ZwdGBToddI8pDm48kGrti_s_PfwP6esIC56PKUgUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8PaoYXhp6HxIwZIk7-Mi3Tsic-L2IOPH3Dwrhl-Ne3Z2almzkRNMpNlNtOklfglXoQ7VoRpBFothwYCJjszMxOSkL3r1G49e-3ZnDLNRdB_t/3.JPG?format=1500w",
-      "website": "https://www.badxboozy.com/"
-    },
-    {
       "id": 3,
       "title": "Cuts & Slices",
       "categories": ["pizza"],
