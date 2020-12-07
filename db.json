@@ -33,7 +33,7 @@
     {
       "id": 4,
       "title": "Milk & Pull",
-      "categories": ["coffee", "beverages", "pastries"],
+      "categories": ["coffee", "pastries"],
       "address": "307 Malcolm X Blvd",
       "city": "Brooklyn",
       "state": "New York",
