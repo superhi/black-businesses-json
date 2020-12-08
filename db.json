@@ -164,6 +164,36 @@
       "description": "Established in 2017, Sip & Sonder's flagship location is the first specialty coffee house in Inglewood, California. With a coffee roaster, creative studio, and multi-purpose event space on site, Sip & Sonder is much more than your ordinary coffee shop—we are a Black woman-owned innovative entrepreneurial and creative hub where coffee, community, and culture connect.",
       "image_url": "https://trippin.imgix.net/https%3A%2F%2Ftrippin.world%2Fassets%2Fspots%2FScreenshot-2020-06-15-at-12.43.31.png?auto=compress%2Cformat&fit=max&ixlib=php-1.1.0&q=80&sharp=20&w=1400&s=13a4991519b1d224b2ea030a566d3151",
       "website": "https://www.sipandsonder.com"
+    },
+    {
+      "id": 12,
+      "title": "Rasa Caffe",
+      "categories": ["coffee", "tea"],
+      "address": "3140 Martin Luther King Jr Way",
+      "city": "Berkeley",
+      "state": "California",
+      "coordinates": [
+        -122.2731248,
+        37.8510047
+      ],
+      "description": "Rasa Caffe offers California’s first unique “East meets West” (coffee & tea) menu. We prepare our drinks blending elegant organic spices of India & the Asian diaspora together with classic Western standards. Our caffe’s exclusive recipes include the award winning Rose Latte and Rasa Chai Blend. We small batch roast our coffee and pair it with high quality baked goods. The caffe is staple destination sharing crowd pleasing specialty drinks with the SF Bay Area and beyond since 2013.",
+      "image_url": "https://i.imgur.com/fWr044I.png",
+      "website": "http://www.rasacaffe.com"
+    },
+    {
+      "id": 13,
+      "title": "Nabolom Bakery",
+      "categories": ["desserts", "pastries", "pizza"],
+      "address": "2708 Russell St",
+      "city": "Berkeley",
+      "state": "California",
+      "coordinates": [
+        -122.2550101,
+        37.8583992
+      ],
+      "description": "Nabolom Bakery and Pizzeria is a family friendly restaurant located in the Elmwood District in Berkeley, CA. We pride ourselves in serving one of a kind pizza, fresh baked goods, beer, wine and drip coffee. Take a peek at our menu and remember to try our take and bake pizza to enjoy at home!",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5d339a6f79f5760001c6dc15/1570298474955-5D3OKWURP37ZTCFVNHDY/ke17ZwdGBToddI8pDm48kD_oGUSWuRp2jXjuKEQV3nl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0hReLB75oIvKxcDxwlnLXaaGu5C6er8w8BNVEuqqdDHgJcM47wyS8Wc3GmL3INRFrw/fullsizeoutput_153b.jpeg?format=2500w",
+      "website": "https://www.nabolombakery.com"
     }
   ]
 }
