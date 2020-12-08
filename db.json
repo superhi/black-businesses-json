@@ -16,6 +16,21 @@
       "website": "https://www.joloffjoloff.com"
     },
     {
+      "id": 2,
+      "title": "Cafe Romanat",
+      "categories": ["ethiopian cuisine"],
+      "address": "462 Santa Clara Ave",
+      "city": "Oakland",
+      "state": "California",
+      "coordinates": [
+        -122.2503938,
+        37.8120675
+      ],
+      "description": "Romanat is a village 8 kilometers north of Mek’ele in the Tigray Tegion of Ethiopia. Roman Falls provides a pastoral oasis where family and friends gather to enjoy its bounty. It is in the spirit of Romanat Falls, coming together to share and enjoy, that Cafe Romanat was conceived. We strive to offer not only what is unique and wonderful about Ethiopian food, but also what is friendly and inviting about Ethiopian culture.",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/tVIT9LmZmXSm1ZoF7tRzUQ/o.jpg",
+      "website": "https://www.caferomanat.com"
+    },
+    {
       "id": 3,
       "title": "Cuts & Slices",
       "categories": ["pizza"],
@@ -63,7 +78,7 @@
     {
       "id": 6,
       "title": "Can't Believe It's Not Meat",
-      "categories": ["vegan", "vegetarian", "soul food"],
+      "categories": ["vegan", "soul food"],
       "address": "1368 E 53rd St",
       "city": "Chicago",
       "state": "Illinois",
@@ -78,7 +93,7 @@
     {
       "id": 7,
       "title": "Original Soul Vegetarian",
-      "categories": ["vegan", "vegetarian", "soul food"],
+      "categories": ["vegan", "soul food"],
       "address": "203 E 75th St",
       "city": "Chicago",
       "state": "Illinois",
